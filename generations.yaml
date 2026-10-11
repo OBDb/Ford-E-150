@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_E-Series"
+
+generations:
+  - name: "Fourth Generation"
+    start_year: 1992
+    end_year: 2014
+    description: "The half-ton E-Series van and wagon, with the 4.2 L V6 and 4.6 L and 5.4 L V8s."
